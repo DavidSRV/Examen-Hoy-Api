@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "description": "Progamacion movil",
+        "profesor": "Sultanito",
+        "Horario": "Diurno"
+    },
+    {
+        "id": "2",
+        "description": "Progamacion de objetos",
+        "profesor": "Deniar",
+        "Horario": "Tarde"
+    },
+    {
+        "id": "3",
+        "description": "Logica de programación",
+        "profesor": "Sultanita",
+        "Horario": "Mañana"
+    },
+    {
+        "id": "4",
+        "description": "Base de datos",
+        "profesor": "Fredys",
+        "Horario": "Diurno"
+    },
+    {
+        "id": "5",
+        "description": "Android Estudio",
+        "profesor": "Jeivenir",
+        "Horario": "Tarde"
+    }
+]
